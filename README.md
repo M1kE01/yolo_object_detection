@@ -31,8 +31,5 @@ The project includes Python scripts for model training, preprocessing, predictio
 ## Contributing
 Contributions to this project are welcome. Feel free to fork the repository, make changes, and submit pull requests. If you encounter any issues or have suggestions, please open an issue in the repository.
 
-## License
-This project is open-sourced under the [MIT License](LICENSE.md).
-
 ## Acknowledgments
 This project is inspired by the original YOLO model and aims to provide an educational insight into the workings of object detection models.
